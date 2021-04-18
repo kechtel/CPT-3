@@ -1,5 +1,6 @@
 # CPT-3 - Automated Documentation and Summary of Doctor-Patient Conversations
 
+![example workflow](https://github.com/kechtel/CPT-3/actions/workflows/main.yml/badge.svg)
 
 ## Features
 
