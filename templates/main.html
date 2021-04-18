@@ -170,18 +170,24 @@
                               rows="{{ ai_response['Symptoms:']|length + 2 }}">{% for item in ai_response['Symptoms:'] %}- {{ item }}
                     {% endfor %}</textarea>
                 </div>
+                <div class="mb-3">
+                    <label for="exampleFormControlTextarea2" class="form-label">Diagnosis:</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea2"
+                              rows="{{ ai_response['Diagnosis:']|length + 2 }}">{% for item in ai_response['Diagnosis:'] %}- {{ item }}
+                    {% endfor %}</textarea>
+                </div>
                 <p>
                     <button class="btn btn-primary" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
                         Show ICD-10 Codes
                     </button>
                 </p>
-                <div class="collapse" id="collapseExample">
+                <div class="collapse mb-3" id="collapseExample">
                     <div class="card card-body">
                         <table class="table">
                             <thead>
                             <tr>
-                                <th scope="col">Symptom</th>
+                                <th scope="col">Diagnosis</th>
                                 <th scope="col">ICD-10 Code</th>
                                 <th scope="col">Description</th>
                             </tr>
@@ -198,12 +204,6 @@
                             </tbody>
                         </table>
                     </div>
-                </div>
-                <div class="mb-3">
-                    <label for="exampleFormControlTextarea2" class="form-label">Diagnosis:</label>
-                    <textarea class="form-control" id="exampleFormControlTextarea2"
-                              rows="{{ ai_response['Diagnosis:']|length + 2 }}">{% for item in ai_response['Diagnosis:'] %}- {{ item }}
-                    {% endfor %}</textarea>
                 </div>
                 <div class="mb-3">
                     <label for="exampleFormControlTextarea3" class="form-label">Treatment:</label>

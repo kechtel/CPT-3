@@ -8,7 +8,7 @@
 - Automatic speech-to-text conversion
 - Extract symptoms, diagnosis, and treatment of the conversation
 - Export summary to .csv
-- Retrieve ICD-10 codes for symptoms
+- Retrieve ICD-10 codes for diagnosis
 
 
 ## Installation

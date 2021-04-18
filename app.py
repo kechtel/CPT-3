@@ -40,7 +40,7 @@ def index():
         response = parse_response(response)
         print(response)
         icd_codes = []
-        for symptom in response['Symptoms:']:
+        for symptom in response['Diagnosis:']:
             icd_results = get_icd_codes(symptom)
             for k, v in icd_results.items():
                 icd_codes.append((symptom, k, v))
