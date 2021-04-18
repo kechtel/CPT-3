@@ -1,0 +1,61 @@
+Someone asked me to summarize the following text:
+I’ve stomachache and loose motions since last night. I also vomited few times in the night. What did you eat yesterday? I ate some snacks on the roadside eatery. It’s likely a result of that. Likely you ate contaminated food. Because of diarrhea, you’ve lost plenty of body fluids. You need to be hydrated. Drink water regularly. Mix some Glucon-D powder or Electral in it. Fruit juice is fine too. Avoid caffeine, dairy products, and solid foods at least till evening. And get plenty of rest. Any medicines, doctor? Yes, I’m prescribing few to control diarrhea. Thank you, doctor.
+
+I structured my summary into symptoms, diagnosis, and treatment as follows:
+Symptoms:
+- stomachache
+- loose motions
+- vomiting
+- diarrhea
+- dehydration
+Diagnosis:
+- Food poisoning
+Treatment:
+- Drink water regularly
+- Glucon-D powder or Electral
+- Fruit juice
+- Avoid caffeine, dairy products, and solid foods
+###
+Someone asked me to summarize the following text:
+Good morning doctor. Good morning. How’re you doing today? I’m fine. Thank you. How about you? I’m good. So what brings you here? I’ve come for a regular checkup for a suspected case of glaucoma. I don’t have it, but few years back a doctor after examining my eye and knowing my family eye history advised me to undergo precautionary checkup once a year. I see that your optic nerve is thicker than the normal. That’s probably the reason why you were asked to undergo precautionary tests every year. You can have the same two tests – visual field analysis and OCT – today and once you’ve the two reports, we can meet again in the afternoon. Alright. Thank you, doctor. I saw the doctor. He has asked for these two tests. OK. The two tests will cost you 67$ and you’ll get the reports in around two hours. Is that fine? That’s fine. Support: Please be seated there. Someone will call you for the first test in few minutes. Thank you. I hope you had a smooth experience going through those tests. Yes, it was. And because I’ve taken these tests in the past too, I knew what was coming. Your reports are absolutely fine. Since these reports haven’t shown anything suspect in so many years, I think you can now take these tests once in two years, and not once a year. OK. Well, that puts glaucoma thing to rest. Does your work involve working on laptop for long hours? Yes. In case your eyes get tired quickly, I would recommend an eye drop, which you can use 2-3 times in the day. Our eyes get dry when we look at the computer screen without blinking for long, a common reason for tiredness in eyes. This eye drop will lubricate your eyes. Do you’ve any other questions? Yes. I see few thin, black, wavy structures floating in front of my eyes and they don’t disappear even when I close my eyes. What are they? Are they harmful? They’re called floaters, and most persons develop them to different extent as they age. They’re not harmful. Thank you doctor. Thanks for your time. You’re welcome.
+
+I structured my summary into symptoms, diagnosis, and treatment as follows:
+Symptoms:
+- Abnormally thick optic nerve
+- Floaters
+Diagnosis:
+Treatment:
+- Visual field analysis (once in two years)
+- OCT (once in two years)
+- Eye drops (2-3 times per day)
+###
+Someone asked me to summarize the following text:
+So, what brings you here? Doctor, my father has been diagnosed with abnormal growth of cells in colon, which doctors so far have confirmed as a case of cancer. What tests have you conducted? On the advice of doctors in Lucknow, we conducted blood tests, CT scan, and biopsy. We’ve taken three opinions on the reports and all have opined colorectal cancer. Here are the reports. Yes, this looks cancerous. What we’ll do is admit him today itself and get few tests done. And let’s meet tomorrow morning when you’ve the reports of these tests. OK. Thank you. The cancer is just one stage before it’ll spread to other parts. In this case, the best course of action is immediate surgery to remove the affected part followed by radiation therapy. How many days of hospitalization will be required? We can perform the surgery day after tomorrow. Thereafter, we’ll keep the patient under observation for 4-5 days. Radiation therapy has become pretty standardized and therefore you can get it done in any tier-2 city, which will not only be convenient to you but also reduce your expense. And for how long the patient will have to undergo radiation therapy? One dose every two weeks for three months. You need to visit the hospital only on days you receive therapy. Once radiation therapy is done, you should consult an oncologist every three months in the beginning and every year later on to check for remission of cancerous cells. OK. I’ve heard radiation therapy has side effects. Yes, radiation therapy has side effects. It can lead to hair loss, nausea, and loss of appetite. Thank you doctor. We’ll get him admitted today.
+
+I structured my summary into symptoms, diagnosis, and treatment as follows:
+Symptoms:
+- Abnormal growth of cells
+Diagnosis:
+- Colon cancer
+Treatment:
+- immediately remove cancerous parts
+- radiation therapy (One dose every two weeks for three months)
+- regularly consult an oncologist after radiation theory
+###
+Someone asked me to summarize the following text:
+Good evening doctor. Good evening. You look pale and your voice is out of tune. Yes doctor. I’m running a temperature and have a sore throat. Let me see. You’ve moderate fever. This thermometer is very different from the one you used the last time. Yes, this is a new introduction by medical equipment companies. It’s much more convenient, as it doesn’t require cleaning after every use. That’s awesome. Yes, it is. Not too high – 99.8. Your blood pressure is fine. It looks bit scruffy. Not good. Yes, it has been quite bad. Do you get sweating and shivering? Not sweating, but I feel somewhat cold when I sit under a fan. OK. You’ve few symptoms of malaria. I would suggest you undergo blood test. Nothing to worry about. In most cases, the test come out to be negative. It’s just precautionary, as there have been spurt in malaria cases in the last month or so. I’m prescribing three medicines and a syrup. The number of dots in front of each tells you how many times in the day you’ve to take them. For example, the two dots here mean you’ve to take the medicine twice in the day, once in the morning and once after dinner. Do you’ve any other questions? No, doctor. Thank you.
+
+I structured my summary into symptoms, diagnosis, and treatment as follows:
+Symptoms:
+- pale
+- hoarse
+- high temperature
+- Sore throat
+- cold
+Diagnosis:
+-
+Treatment:
+- blood test
+- three medicines
+- syrup
+###
